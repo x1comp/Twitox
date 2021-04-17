@@ -4,7 +4,7 @@ hey my name is snowy and this is my twitter bot.
 
 firstly you will need to install python on your device and set it up and add python to your system variables. I would reccomend you following a youtube tutorial for this. Next you want to install vscode and also set it up but this is pretty self explanitory. You then want to download the pluging inside visual studio called python and pylance and set those up next you wanna type this into cmd  once you launched it as admin:  pip --v 
 
-if a number pops up ur ready to go such as 365.06 or etc ur good to go
+if a number pops up  such as 365.06 or etc ur ready to go
 
 now you want to again launch cmd as admin and write: pip install tweepy
 once that is completed you wanna also write pip install time
