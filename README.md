@@ -1,25 +1,23 @@
-# twitter-bot
-hey yesdo
+Hello, 
 
-hey my name is snowy and this is my twitter bot.
+This is a Twitter bot written in python using the tweepy API
+To use it you'll firstly need to set up a developers account on twitter.
+Once your application gets accepted to become a developer account on twitter youll need to create a new project/ app.
+Once you do this screenshot or write down the API Access key and the token keys because you will need it later.
 
-firstly you will need to install python on your device and set it up and add python to your system variables. I would reccomend you following a youtube tutorial for this. Next you want to install vscode and also set it up but this is pretty self explanitory. You then want to download the pluging inside visual studio called python and pylance and set those up next you wanna type this into cmd  once you launched it as admin:  pip --v 
+Make sure you have python version 3.7 or higher installed on your machine.
+You can check by opening the terminal and typing python --v. This should say your version name.
+Now your ready to start using the script.
 
-if a number pops up  such as 365.06 or etc ur ready to go
+Open the script in your preferred text editor and replace and fill in your API Auth keys and your token keys.
+Open your terminal again in administrative mode and type 'pip install tweepy'. Once this task is completed, type 'pip install os' and once this is completely type 'pip install time'.
+Now your ready to run the script.
 
-now you want to again launch cmd as admin and write: pip install tweepy
-once that is completed you wanna also write pip install time
-these are api's you will need to run the script
-then you can create a txt file on your desktop and make sure your file extenstions are visable such as .txt then rename it to tentoy.py
-open that file in vscode. then copy and paste my script into it. 
+Cd into the directory the script is located at through the terminal, and type 'py tweepybot.py' and it should run the script without having any errors.
+If you got any errors while trying to install the packages or running the script make sure pip is set as a system environment variable. 
+To do this I recommend watching a YouTube video on how to setup the system environment variable.
 
-you will also need to download code runner in vscode. i reccomed watching a tutorial for downloading plugins if your not familier with it.
-next copy and paste my code into the text editor. Now ctrl f and look for # because where ever there is a # you will need to fill in your twiiter account access key and token.
-do get your twitter access key and token you will need to go to developer.twiiter.com and apply for it. for me it took like 30 minutes to get approved. Now watch a youtube tutorial and look how to create a project and get api key and get our access token and etc.
-
-now fill your access token and your api access token in the respected/ designated area and now run the code.
-
-
-if there is any bugs please dm me on discord and if you want me to add any more features on this please let me know also
-
-
+Btw I am not responsible for any damage caused by this Twitter bot, 
+I do not hold any reliability for this script. Use it at your own risk.
+Please don't use this script to harass, bully, threaten or do something stupid. 
+Follow the Twitter Tos and behave maturely and orderly while using this script.
